@@ -46,21 +46,21 @@
 
 ## 3. Một số màn hình giao diện
 <p align="center">
-   <img src="images/login.png" alt="Đăng nhập" width="500"/>
+   <img src="images/dangnhap.png" alt="Đăng nhập" width="500"/>
 </p>
 <p align="center">
    <em>Hình 1: Giao diện đăng nhập/đăng ký</em>
 </p>
 
 <p align="center">
-   <img src="images/seatmap.png" alt="Sơ đồ ghế" width="500"/>
+   <img src="images/trangchu.png" alt="Sơ đồ ghế" width="500"/>
 </p>
 <p align="center">
-   <em>Hình 2: Chọn ghế và đồ ăn thức uống</em>
+   <em>Hình 2: Giao diện trang chủ</em>
 </p>
 
 <p align="center">
-   <img src="images/history.png" alt="Lịch sử" width="500"/>
+   <img src="images/lichsugiaodich.png" alt="Lịch sử" width="500"/>
 </p>
 <p align="center">
    <em>Hình 3: Lịch sử giao dịch chi tiết</em>
