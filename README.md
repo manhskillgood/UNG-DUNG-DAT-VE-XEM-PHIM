@@ -66,7 +66,6 @@
    <em>Hình 3: Lịch sử giao dịch chi tiết</em>
 </p>
 
-*(Bạn có thể chụp màn hình thực tế của ứng dụng để thay thế các ảnh trên)*
 
 ## 4. Cài đặt & Sử dụng
 **Yêu cầu môi trường:**
