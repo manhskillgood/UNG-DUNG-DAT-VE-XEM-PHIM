@@ -37,7 +37,7 @@
 - Hỗ trợ thanh toán sau và hủy đơn chưa thanh toán.
 - Cho phép mở rộng để quản lý phim, suất chiếu, reset ghế đã đặt.
 
-## 2. Ngôn ngữ & Công nghệ
+## 2. Ngôn ngữ & Công nghệ sử dụng
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Java Swing](https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/tutorial/uiswing/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
